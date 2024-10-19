@@ -1,0 +1,26 @@
+1.WAP to enter the number and check number is even or odd using 
+conditional operator
+
+2.WAP to enter the three number and check which is greater using decision 
+making statement
+
+3.WAP to enter the year and check year is leap year or not 
+(Leap year means year divide by 4)
+
+4.WAP to enter the three digit number and check number is palimdrome or not
+      Palindrome means e.g 121 = 121 
+      Means number is equal with a reverse number then number is palimdrome
+
+5.Write a C program to input week number(1-7) and print day of week name using switch case.
+
+6.Write a C program to input an alphabet and check whether it is vowel or consonant using switch case
+------------Looping Program list------------------------------
+1.Write a  program to print all natural numbers from 1 to n using loop
+
+2.Write a program to print all natural numbers in reverse from n to 1 using  loop
+
+3.Write a program to print all even numbers from 1 to 20 using  loop
+
+4.Write a program to input number from user and find sum of all even numbers between 1 to n
+
+5.Write a program in C to input a number and check whether the number is prime number or not using loop

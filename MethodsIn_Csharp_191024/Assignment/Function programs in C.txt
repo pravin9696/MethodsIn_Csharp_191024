@@ -1,0 +1,56 @@
+Programs on method 
+
+1) Write a program  to find the square of any number using the method.
+	Input : 20
+	Expected Output :
+		The square of 20 is : 400
+2) Write a program  to swap two numbers using method.
+
+	Input 1st number : 2
+	Input 2nd number : 4
+		Expected Output :
+
+		Before swapping: n1 = 2, n2 = 4                                                  
+		After swapping: n1 = 4, n2 = 2 
+3) Write a program  to check a given number is even or odd using the method.
+		Input : 5
+		Expected Output :
+ 		The entered number 5 is odd.  
+4) Write a program  to find factorial of given number using method
+         	Input : 5
+		Expected Output : method will return 120 and message will be
+ 				  "Factorial of  5 is 120".  
+5) Write a program  to find the sum of the series 1!+2!+3!+4!+5! using the method.
+	    Expected Output :
+ 1+2+6+24+120
+	       The sum of the series is : 153
+
+6) Write a program  to convert decimal number to binary number using the method. 
+		Input any decimal number : 65
+		Expected Output :
+
+	 	The Binary value is : 1000001 
+7) Write a program  to get the largest element of an array using the method. 
+	Input 5 elements in the array :
+		element - 0 : 1
+		element - 1 : 2
+		element - 2 : 3
+		element - 3 : 4
+		element - 4 : 5
+		Expected Output :
+			The largest element in the array is : 5
+
+8) Write a program  to check given numebr is  armstrong or not using method
+ 
+		Input any number: 371
+		Expected Output :
+	 	The 371 is an Armstrong number.  
+
+(NOTE: An Armstrong number of three digits is an integer such that the sum of the cubes of its digits is equal to the number itself. For example, 371 is an Armstrong number since 3*3*3 + 7*7*7 + 1*1*1 = 371.)                                
+           
+9) Write a program  to check given numebr is perfect number  or not using method
+ 
+	Input any number: 371
+	Expected Output :
+                    The 371 is not a Perfect number.  
+(NOTE: perfect number, a positive integer that is equal to the sum of its proper divisors. The smallest perfect number is 6, which is the sum of 1, 2, and 3.)
